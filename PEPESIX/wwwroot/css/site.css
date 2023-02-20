@@ -1,0 +1,88 @@
+
+html {
+    font-size: 15px;
+    background-color: #6610f2;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    background-color: #6610f2;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #6610f2;
+    
+}
+
+#N{
+    margin-left:auto;
+}
+a {
+    white-space: nowrap;
+    text-shadow: 0 0 1px rgba(255, 255, 255, 0.6), 0 0 3px rgba(255, 255, 255, 0.5), 0 0 0.5rem rgba(255, 255, 255, 0.3), 0 0 2rem rgba(255, 255, 255, 0.2);
+}
+.container {
+    color: #44d9e8; /*צגוע רנטפעא*/
+    height:530px;
+    
+}
+footer {
+    background-color: #44d9e8;
+    color: dimgray;
+    height: 40px;
+    position:fixed:
+}
+.container_1{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+#main {
+    color: aliceblue;
+}
+
+.mazda {
+    box-shadow: 4px 4px #BAF300, -1em 0 .4em #B90091;
+    margin-top: 70px;
+    margin-right: 250px;
+
+
+}
+.mazda:hover {
+    transform: scale(1.15);
+
+}
+.srcc {
+    margin-bottom: 100px;
+    margin-left: 770px;
+    margin-top: -60px;
+    vertical-align: middle;
+    width: 220px;
+    text-align: center;
+    text-shadow: 10px;
+    color: #6610f2;
+}
+#Nissan_Silvia{
+    width:60%;
+}
+#LeftColumn{
+    position:absolute;
+}
+#RightColumn{
+    margin-left: 40%;
+    
+    position:absolute;
+}
+#RightColumn1 {
+    margin-left: 50%;
+    margin-top: 60px;
+    position: absolute;
+    
+}
